@@ -12,18 +12,18 @@ Compared to other models such as CERES, APSIM, and STICS, the SARRA-H model is d
 
 Finally, the modular structure of this environment allows external management of the calculation engine (simulator) independently of the environment. All these features are described in a user manual, and the environment provides numerous tools and interfaces such as data import/export, graphical representations, sensitivity analysis, and a database to optimize data and result management.
 
-Please refer to the user manual for further details.
+Please refer to the documentation below for further details.
 
-Because of the end of life of its development platform (Borland Delphi), SARRA-H will not be maintained anymore. We invite users to refer to our SARRA-O and SARRA-Py repositories for updates of the model and simulation platform.
+**Because of the end of life of its development platform (Borland Delphi), SARRA-H will not be maintained anymore**. We invite users to refer to our (SARRA-O)[https://github.com/SARRA-cropmodels/SARRA-O-Java] and (SARRA-Py)[https://github.com/SARRA-cropmodels/SARRA-Py] repositories for updates of the model and simulation platform.
 
 ## Installation
 
 To install SARRA-H version 42, please follow these steps:
 
-1. Download the installation package : git clone https://github.com/SARRA-cropmodels/SARRA-H/
-2. Run the installer file : "SarraH_4_2_setup_Diff2.exe" and follow the installation wizard
-3. Copy/paste the interface executable "SarraH_Interface_v42New.exe" into the installation path
-4. Run the interface executable "SarraH_Interface_v42New.exe" - running in administrator mode troubleshoots most runtime bugs it the latest Windows versions
+1. Download the installation package : `git clone https://github.com/SARRA-cropmodels/SARRA-H/`
+2. Run the installer file : `SarraH_4_2_setup_Diff2.exe` and follow the installation wizard
+3. Copy/paste the interface executable `SarraH_Interface_v42New.exe` into the installation path
+4. Run the interface executable `SarraH_Interface_v42New.exe` - running in administrator mode troubleshoots most runtime bugs it the latest Windows versions
 
 ## Examples and Scenarios
 
