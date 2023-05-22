@@ -14,7 +14,7 @@ Finally, the modular structure of this environment allows external management of
 
 Please refer to the documentation below for further details.
 
-**Because of the end of life of its development platform (Borland Delphi), SARRA-H will not be maintained anymore**. We invite users to refer to our (SARRA-O)[https://github.com/SARRA-cropmodels/SARRA-O-Java] and (SARRA-Py)[https://github.com/SARRA-cropmodels/SARRA-Py] repositories for updates of the model and simulation platform.
+**Because of the end of life of its development platform (Borland Delphi), SARRA-H will not be maintained anymore**. We invite users to refer to our [SARRA-O](https://github.com/SARRA-cropmodels/SARRA-O-Java) and [SARRA-Py](https://github.com/SARRA-cropmodels/SARRA-Py) repositories for updates of the model and simulation platform.
 
 ## Installation
 
